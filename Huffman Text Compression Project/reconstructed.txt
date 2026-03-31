@@ -1,0 +1,4 @@
+This is a Huffman coding test file
+The goal is to compress this text using Huffman coding
+Huffman coding assigns shorter codes to frequent characters
+and longer codes to less frequent ones
